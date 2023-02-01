@@ -4,7 +4,6 @@ json_tricks
 matplotlib
 munkres
 numpy
-git+https://github.com/opencv/opencv-python@master#egg=opencv-python
 pillow
 scipy
 torchvision
